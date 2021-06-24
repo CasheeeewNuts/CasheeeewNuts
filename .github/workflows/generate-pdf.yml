@@ -27,4 +27,4 @@ jobs:
           git commit -m "generate PDF" -a
           git config pull.ff only
           git pull
-          git push origin master
+          git push origin main
