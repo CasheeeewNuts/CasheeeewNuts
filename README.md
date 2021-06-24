@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+I'm Shu-Nonaka ("CasheeeewNuts" is the handle name), currently working as the Web developer on Innovation-Lab located in Tokyo.
+
+### Favorite language is... ❤️
+My favorite language is TypeScript(particularly on Node.js), C lang and PHP.  
+Currently, interesting or learning is Kotlin and Haskell.
+
 
 <!--
 **CasheeeewNuts/CasheeeewNuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
