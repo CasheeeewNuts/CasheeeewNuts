@@ -25,5 +25,6 @@ jobs:
       - run: |
           git add .
           git commit -m "generate PDF" -a
+          git config pull.ff only
           git pull
           git push origin master
