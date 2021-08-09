@@ -19,7 +19,7 @@
 - TypeScript + Reactを利用したUIの実装
 - 社内勉強会の企画・運営
 
-## スキルレベル
+## スキル一覧
 |スキル|期間|説明|
 |----|----|----|
 |PHP|16ヶ月|業務においてメインで使用。フレームワーク内のソースコードを難なく読める・Composerに対応したライブラリの作成が可能・型安全な開発が得意|
@@ -30,7 +30,7 @@
 |Node.js|12ヶ月|メインは個人開発で使用。業務でも利用経験あり|
 |React|6ヶ月|業務・個人開発ともに利用。状態管理ツール(Redux, Recoil...)などは未経験。hooks, custom hooksを利用した実装が可能|
 |SQL|16ヶ月|業務にてメインで使用。基本的な構文に加え、サブクエリ・相関サブクエリ・window関数等が利用可能。第三正規系まで考慮したDBの設計が可能で、実行計画を用いたクエリチューニングができる
-|Linux|60ヶ月~|CLIの操作、シェルスクリプトによる操作自動化|
+|Linux|60ヶ月~|CLIの操作、シェルスクリプトによる操作自動化　※[参考](https://gist.github.com/CasheeeewNuts/7c92baa8e36c761483609f5a4f7c81bc)|
 |Docker|14ヶ月|DockerCLI、Docker Composeを利用した開発環境の構築、コンテナのイメージサイズを考慮したマルチステージビルド、要件に応じたDockerfileの作成|
 |Nginx|12ヶ月|Nginxの基本設定を行うことができる。|
 |Git|16ヶ月|CLI上での基本操作(checkout, branch, commit, fetch, pull, push, reset, revert)に加え、発展的な操作(cherry-pick, rebase, squash, stash, bisect)|
