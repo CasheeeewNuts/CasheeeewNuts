@@ -18,10 +18,10 @@ jobs:
           node-version: 12
       - run: |
           npm i
-          npx md-to-pdf ./docs/*.md
+          npm run prebuild
+          npm run build
       - run: |
-          git config --local user.email "casheeeewnuts+tech@gmail.com"
-          git config --local user.name "CasheeeewNuts"
+          npm run configure
       - run: |
           git add .
           git commit -m "generate PDF" -a

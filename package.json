@@ -2,5 +2,10 @@
   "dependencies": {
     "md-bundler": "^0.2.5",
     "md-to-pdf": "^3.3.2"
+  },
+  "scripts": {
+    "prebuild": "mdb ./docs/assets/resume.md ./docs/resume.md",
+    "build": "npx md-to-pdf ./docs/resume.md",
+    "configure": "git config --local user.email \"casheeeewnuts+tech@gmail.com\" && git config --local user.name \"CasheeeewNuts\""
   }
 }
