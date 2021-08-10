@@ -22,4 +22,4 @@
 |Linux|60ヶ月~|CLIの操作、シェルスクリプトによる操作自動化　※[参考](https://gist.github.com/CasheeeewNuts/7c92baa8e36c761483609f5a4f7c81bc)|
 |Docker|14ヶ月|DockerCLI、Docker Composeを利用した開発環境の構築、コンテナのイメージサイズを考慮したマルチステージビルド、要件に応じたDockerfileの作成|
 |Nginx|12ヶ月|Nginxの基本設定を行うことができる。|
-|Git|16ヶ月|CLI上での基本操作(checkout, branch, commit, fetch, pull, push, reset, revert)に加え、発展的な操作(cherry-pick, rebase, squash, stash, bisect)|
+|Git|16ヶ月|CLI上での基本操作(checkout, branch, commit, fetch, pull, push, reset, revert)に加え、発展的な操作(cherry-pick, rebase, squash, stash, bisect)、hooksの利用|
