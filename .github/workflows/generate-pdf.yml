@@ -20,13 +20,11 @@ jobs:
           sudo apt-get install -y fonts-noto
       - run: |
           npm i
-          npm run prebuild
           npm run build
       - run: |
           npm run configure
       - run: |
           git config pull.ff only
-          git switch origin/main
           git pull
           git add .
           git commit -m "generate PDF" -a

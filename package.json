@@ -5,7 +5,7 @@
   },
   "scripts": {
     "prebuild": "mdb ./docs/assets/resume.md ./docs/resume.md",
-    "build": "npx md-to-pdf ./docs/resume.md",
+    "build": "npm run prebuild && npx md-to-pdf ./docs/resume.md",
     "configure": "git config --local user.email \"casheeeewnuts+tech@gmail.com\" && git config --local user.name \"CasheeeewNuts\""
   }
 }
