@@ -25,6 +25,7 @@ jobs:
           npm run configure
       - run: |
           git config pull.ff only
+          git switch main
           git pull
           git add .
           git commit -m "generate PDF" -a
