@@ -5,8 +5,8 @@ name: Node.js Package
 
 on:
   push:
-    tags:
-      - v1.*
+    branches:
+      - main
 
 jobs:
   build:
@@ -24,9 +24,8 @@ jobs:
       - run: |
           npm run configure
       - run: |
-          git config pull.ff only
-          git switch main
-          git pull
           git add .
           git commit -m "generate PDF" -a
+          git config pull.ff only
+          git pull
           git push origin main
