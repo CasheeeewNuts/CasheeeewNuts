@@ -1,5 +1,9 @@
 ## PR
 
+### 技術スタックについて
+書き下すと長くなり、読みづらくなってしまうと判断したため、別ページにて公開しています。  
+[こちら](https://github.com/CasheeeewNuts/CasheeeewNuts/blob/main/docs/assets/skills.md) から参照いただければ幸いです  
+
 ### 好きな言語
 型システムがしっかりしていながら柔軟性があり、表現力に富んだ言語が好きです。  
 TypeScript、Kotlin、PHPなど  
