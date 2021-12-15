@@ -16,13 +16,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Hi there 👋
-I'm Shu-Nonaka, currently working as the Backend engineer on Leverages.
-
-### Favorite language is... ❤️
-My favorite language is TypeScript(particularly on Node.js), C lang and PHP.  
-Currently, interesting or learning is Rust.
-
 
 <!--
 **CasheeeewNuts/CasheeeewNuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
